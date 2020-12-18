@@ -6,6 +6,7 @@ Create sandwiches in WordPress!
 
 Johrten's Sandwich Post Type is a WordPress plugin that creates new custom post type called "Sandwich" with its own meta box for pricing. Once installed, this simple plugin allows you to title a sandwich, use the Gutenburg block editor to write anything you want, and add a price on the sidebar. On the "All Sandwiches" page, I've added a column to display the price of your sandwiches for quick and easy browsing.
 
+![Example of Sandwich Post](https://i.imgur.com/btyd1Pg.png)
 
 ## Installation from Github
 
