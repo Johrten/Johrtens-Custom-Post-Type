@@ -11,19 +11,19 @@ Johrten's Sandwich Post Type is a WordPress plugin that creates new custom post 
 
 1. Click on the "Code" button at the  top of this repo and select "Download Zip"
 
-![alt text.](/imagelink.png "sample image.")
+![Click Code and Download Zip](https://i.imgur.com/W61FBOs.png)
 
 2. In your WordPress dashboard, hover over "Plugins" and select "Add New"
 
-![alt text.](/imagelink.png "sample image.")
+![Click Plugins and Add New](https://i.imgur.com/X5Syfrw.png)
 
 3. On the "Add Plugins" screen, select "Upload Plugin"
 
-![alt text.](/imagelink.png "sample image.")
+![Click Upload Plugin](https://i.imgur.com/P7ZM7Wa.png)
 
 4. Click on "Choose File," select the Zip you downloaded in step one, and then "Install Now"
 
-![alt text.](/imagelink.png "sample image.")
+![Click Choose File and Install Now](/imagelink.png "sample image.")
 
 5. On the success screen, you can activate the plugin right away.
 
